@@ -170,7 +170,7 @@ loomoneers-webapp-cap/
     |-- Register.vue
     |-- Team.vue
     |-- Members
-      |-- Alex.vue
+      |-- alex.vue
       |-- Daniel.vue
       |-- Ezra.vue
       |-- Justice.vue
