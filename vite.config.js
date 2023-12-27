@@ -13,7 +13,7 @@ export default defineConfig({
   },
 
   build: {
-    target: 'es2020', // Add this line
+    target: 'es2022', // Add this line
     rollupOptions: {
       input: {
         main: 'src/main.js',
