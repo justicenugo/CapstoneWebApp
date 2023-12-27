@@ -4,7 +4,7 @@ This project is a Vue.js web application built with Vite.
 This was the web app that I built for my Senior Capstone Project. We used the web app to manually control our robot and make requests to it. 
 ** The robot control functionality has been removed from this version as it needs to be connected to the robot to work and no access to the robot seeing as capstone has ended. **
 
-- link to capstone project repo [https://github.com/justicenugo/AreYouDaFeds](https://github.com/justicenugo/AreYouDaFeds)
+- click [here](https://github.com/justicenugo/AreYouDaFeds) for capstone project repo
 
 ## Table of Contents
 
